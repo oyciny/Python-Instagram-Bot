@@ -2,13 +2,14 @@
 First off this bot was a learning experience for me. I do not intend for people to use this as there is a possibility you will get banned. If that happens I am not responsible. This is a "use at your own risk" kind of software.
 
 ## Installation
-First you will need to download this repository. After you do that you need to install selenium.
+First you will need to download this repository. After you do that you need to install selenium. Open a new terminal session and run:
 ```
-  pip install selenium
+  > pip install selenium
 ```
 After you have installed selenium you now need to install your browser driver. Different webbrowsers have different drivers. I have included the chromedriver that you need to run this with Google Chrome. If you prefer to use a different browser download and install the driver following the instructions using one of the links below.  
 * [FireFox](https://github.com/mozilla/geckodriver/releases)
-* [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)  
+* [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
 After you do that you will need to make sure you use that driver. The bot is pre-programmed to use the Google Driver. If you wish to use a different browser you need to follow the instructions below.  
 
 ### FireFox
